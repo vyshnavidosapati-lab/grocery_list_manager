@@ -1,0 +1,5 @@
+{
+    "java.compile.nullAnalysis.mode": "automatic",
+    "explorer.decorations.colors": false,
+    "java.configuration.updateBuildConfiguration": "interactive"
+}
