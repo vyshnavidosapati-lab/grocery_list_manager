@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Gather — Smart Grocery List Manager
 
 Gather is a full-stack grocery planning app. Its React frontend talks to a Spring Boot REST API, which stores user-owned grocery items, categories, budgets, and reminders in MySQL. Authentication uses BCrypt-hashed passwords and signed JWT bearer tokens; grocery records are never stored in browser storage.
@@ -150,3 +151,7 @@ Amounts are stored as decimal values. Purchased-item spending is calculated as u
 ## Screenshots
 
 Screenshots are not checked into this starter workspace. Capture the dashboard and responsive/mobile view after running the app and add the resulting images here.
+=======
+# grocery_list_manager
+Grocery List Manager is a full-stack web application that helps users organize grocery shopping efficiently. It offers secure login, adding, editing and deleting items, tracking purchases, managing monthly budgets, setting reminders, and monitoring expenses through an interactive dashboard using React, Spring Boot, and MySQL.
+>>>>>>> 35a9470498ec4d5e347d5ee8963e0f5c128b4c7f
